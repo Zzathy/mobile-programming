@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "667573325286",
+    "project_id": "practice-fce51",
+    "storage_bucket": "practice-fce51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667573325286:android:141b33002c2b51df935a27",
+        "android_client_info": {
+          "package_name": "com.example.module4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADXGJK9LNxdK0h17ccqwyKSW4bpg5TqoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
